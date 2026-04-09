@@ -119,7 +119,7 @@
       "name": "Nom complet",
       "namePlaceholder": "Jean Dupont",
       "email": "Adresse email",
-      "emailPlaceholder": "jean@entreprise.fr",
+      "emailPlaceholder": "jean@entreprise.gr",
       "company": "Entreprise",
       "companyPlaceholder": "Votre entreprise (optionnel)",
       "message": "Message",
@@ -130,9 +130,9 @@
     },
     "info": {
       "emailLabel": "Email",
-      "email": "contact@saen26.fr",
+      "email": "contact@saen26.gr",
       "locationLabel": "Localisation",
-      "location": "France",
+      "location": "Grèce",
       "responseLabel": "Délai de réponse",
       "response": "Sous 48 heures ouvrées"
     }

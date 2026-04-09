@@ -61,10 +61,10 @@ export default function MissionSection() {
               <div className="absolute w-48 h-48 rounded-full" style={{ background: "radial-gradient(circle, rgba(163,181,48,0.15) 0%, transparent 70%)" }} aria-hidden="true" />
 
               <Image
-                src="/logo/logo-light.svg"
+                src="/logo/logo-dark.png"
                 alt="SAEN26"
                 width={220}
-                height={64}
+                height={156}
                 className="relative z-10 object-contain"
               />
             </div>

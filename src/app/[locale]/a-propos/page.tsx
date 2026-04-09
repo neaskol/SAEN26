@@ -47,7 +47,7 @@ export default async function AboutPage() {
             </div>
             <div className="relative rounded-2xl overflow-hidden aspect-[4/3]">
               <Image
-                src="/photos/pexels-obryan-poyser-3158555-6837596.webp"
+                src="/photos/strategie-transition-energetique.webp"
                 alt="L'équipe SAEN26"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"

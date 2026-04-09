@@ -119,7 +119,7 @@
       "name": "Full name",
       "namePlaceholder": "John Doe",
       "email": "Email address",
-      "emailPlaceholder": "john@company.com",
+      "emailPlaceholder": "john@company.gr",
       "company": "Company",
       "companyPlaceholder": "Your company (optional)",
       "message": "Message",
@@ -130,9 +130,9 @@
     },
     "info": {
       "emailLabel": "Email",
-      "email": "contact@saen26.fr",
+      "email": "contact@saen26.gr",
       "locationLabel": "Location",
-      "location": "France",
+      "location": "Greece",
       "responseLabel": "Response time",
       "response": "Within 48 business hours"
     }
