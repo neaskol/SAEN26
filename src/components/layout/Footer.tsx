@@ -21,10 +21,10 @@ export default async function Footer() {
           {/* Logo + tagline */}
           <div className="flex flex-col gap-4">
             <Image
-              src="/logo/logo-light.svg"
+              src="/logo/logo-dark.png"
               alt="SAEN26"
               width={140}
-              height={40}
+              height={99}
               className="object-contain"
             />
             <p className="font-sans text-white/60 text-sm leading-relaxed max-w-xs">

@@ -49,10 +49,10 @@ export default function NavBar() {
         {/* Logo */}
         <Link href={`/${locale}`} className="flex-shrink-0" aria-label="SAEN26 — Accueil">
           <Image
-            src="/logo/logo-dark.svg"
+            src="/logo/logo-dark.png"
             alt="SAEN26"
             width={130}
-            height={38}
+            height={92}
             className="object-contain"
             priority
           />
