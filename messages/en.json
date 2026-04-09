@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Consulting firm in ecological transition",
+    "headline": "Low-carbon transition, concrete and measurable",
+    "subheadline": "SAEN26 supports businesses in their decarbonization strategy: carbon footprint assessment, action plans, and ESG reporting.",
+    "cta": "Contact us",
+    "scrollDown": "Discover"
+  },
+  "whyUs": {
+    "sectionLabel": "Our strengths",
+    "title": "Why SAEN26?",
+    "intro": "We combine technical expertise and strategic vision to help you concretely reduce your carbon footprint.",
+    "features": {
+      "expertise": {
+        "title": "Certified expertise",
+        "description": "Our consultants master recognized frameworks (GHG Protocol, ISO 14064) and current regulatory requirements."
+      },
+      "pragmatic": {
+        "title": "Pragmatic approach",
+        "description": "Every mission starts from your real constraints. We build actionable plans, not reports that gather dust."
+      },
+      "longterm": {
+        "title": "Long-term commitment",
+        "description": "We stay by your side over time: indicator monitoring, annual adjustments, and support with regulatory reporting."
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "What we do",
+    "title": "Our services",
+    "intro": "Turnkey solutions to manage your ecological transition from start to finish.",
+    "learnMore": "Learn more",
+    "items": {
+      "bilan": {
+        "title": "Carbon footprint",
+        "description": "Precise measurement of your GHG emissions (scopes 1, 2 and 3) according to the GHG Protocol, for a reliable decision-making base."
+      },
+      "strategy": {
+        "title": "Low-carbon strategy",
+        "description": "Setting targets aligned with the Science Based Targets initiative (SBTi) and building your decarbonization roadmap."
+      },
+      "training": {
+        "title": "Training & awareness",
+        "description": "Tailored workshops for your teams: understanding climate issues, mastering tools, and engaging the entire organization."
+      },
+      "reporting": {
+        "title": "ESG reporting",
+        "description": "Building your non-financial reporting compliant with CSRD/ESRS requirements, ready for investors and stakeholders."
+      }
+    }
+  },
+  "longTerm": {
+    "sectionLabel": "Our commitment",
+    "title": "Support over the long term",
+    "description": "Ecological transition is not a one-off project — it is a profound transformation. SAEN26 supports you at every stage, from the initial assessment to multi-year monitoring of your objectives.",
+    "learnMore": "Learn more",
+    "badgeTitle": "Continuous monitoring",
+    "badgeSub": "Indicators updated every quarter",
+    "bullets": [
+      "Quarterly monitoring of your carbon indicators",
+      "Annual update of your GHG inventory",
+      "Regulatory watch and continuous adaptation",
+      "Direct interface with your auditors and statutory auditors"
+    ],
+    "cta": "Book a meeting"
+  },
+  "mission": {
+    "sectionLabel": "Who we are",
+    "title": "Our mission",
+    "description": "SAEN26 is a consulting firm specializing in the ecological transition of businesses. Our conviction: every organization, regardless of size, can act effectively on its environmental footprint. We put our expertise at the service of this ambition, with rigor, transparency, and commitment.",
+    "values": {
+      "rigueur": "Scientific rigor",
+      "transparence": "Full transparency",
+      "impact": "Measurable impact"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About SAEN26",
+      "subtitle": "A consulting firm committed to a low-carbon economy, serving companies that want to take concrete action."
+    },
+    "story": {
+      "title": "Our story",
+      "body": "Founded by experts in environment and business strategy, SAEN26 was born from the conviction that ecological transition must be an opportunity for competitiveness, not a burden. Since our creation, we have supported dozens of companies in their transformation towards a more sustainable model."
+    },
+    "values": {
+      "title": "Our values",
+      "items": [
+        {
+          "title": "Scientific rigor",
+          "description": "We base every recommendation on verifiable data and recognized methodologies."
+        },
+        {
+          "title": "Full transparency",
+          "description": "Our deliverables are clear, documented, and understandable at all levels of your organization."
+        },
+        {
+          "title": "Measurable impact",
+          "description": "We define concrete indicators so you can track and prove your progress."
+        }
+      ]
+    },
+    "cta": {
+      "label": "Get in touch",
+      "description": "Let's talk about your decarbonization project."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact us",
+      "subtitle": "Do you have a decarbonization project? A question about our services? We respond within 48 hours."
+    },
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "John Doe",
+      "email": "Email address",
+      "emailPlaceholder": "john@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Your company (optional)",
+      "message": "Message",
+      "messagePlaceholder": "Describe your project or question…",
+      "submit": "Send message",
+      "success": "Thank you! Your message has been sent. We will get back to you within 48 hours.",
+      "error": "An error occurred. Please try again or contact us directly by email."
+    },
+    "info": {
+      "emailLabel": "Email",
+      "email": "contact@saen26.fr",
+      "locationLabel": "Location",
+      "location": "France",
+      "responseLabel": "Response time",
+      "response": "Within 48 business hours"
+    }
+  },
+  "footer": {
+    "tagline": "Consulting firm specialized in ecological transition and low-carbon strategy.",
+    "navigation": "Navigation",
+    "legal": "Legal notice",
+    "rights": "© 2026 SAEN26. All rights reserved."
+  }
+}

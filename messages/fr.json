@@ -1,0 +1,146 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Cabinet de conseil en transition écologique",
+    "headline": "La transition bas-carbone, concrète et mesurable",
+    "subheadline": "SAEN26 accompagne les entreprises dans leur stratégie de décarbonation : bilan carbone, plan d'action et reporting ESG.",
+    "cta": "Nous contacter",
+    "scrollDown": "Découvrir"
+  },
+  "whyUs": {
+    "sectionLabel": "Nos atouts",
+    "title": "Pourquoi SAEN26 ?",
+    "intro": "Nous conjuguons expertise technique et vision stratégique pour vous aider à réduire concrètement votre empreinte carbone.",
+    "features": {
+      "expertise": {
+        "title": "Expertise certifiée",
+        "description": "Nos consultants maîtrisent les référentiels reconnus (GHG Protocol, ISO 14064) et les exigences réglementaires en vigueur."
+      },
+      "pragmatic": {
+        "title": "Approche pragmatique",
+        "description": "Chaque mission part de vos contraintes réelles. Nous construisons des plans d'action réalisables, pas des rapports qui restent dans un tiroir."
+      },
+      "longterm": {
+        "title": "Engagement long terme",
+        "description": "Nous sommes à vos côtés sur la durée : suivi des indicateurs, ajustements annuels et accompagnement dans vos reporting réglementaires."
+      }
+    }
+  },
+  "services": {
+    "sectionLabel": "Ce que nous faisons",
+    "title": "Nos services",
+    "intro": "Des prestations clé en main pour piloter votre transition écologique de A à Z.",
+    "learnMore": "En savoir plus",
+    "items": {
+      "bilan": {
+        "title": "Bilan carbone",
+        "description": "Mesure précise de vos émissions de GES (scopes 1, 2 et 3) selon le GHG Protocol, pour une base de décision fiable."
+      },
+      "strategy": {
+        "title": "Stratégie bas-carbone",
+        "description": "Définition d'objectifs alignés avec la Science Based Targets initiative (SBTi) et élaboration de votre feuille de route décarbonation."
+      },
+      "training": {
+        "title": "Formation & sensibilisation",
+        "description": "Ateliers sur mesure pour vos équipes : comprendre les enjeux climatiques, maîtriser les outils et embarquer toute l'organisation."
+      },
+      "reporting": {
+        "title": "Reporting ESG",
+        "description": "Construction de votre reporting extra-financier conforme aux exigences CSRD/ESRS, prêt pour vos investisseurs et parties prenantes."
+      }
+    }
+  },
+  "longTerm": {
+    "sectionLabel": "Notre engagement",
+    "title": "Un accompagnement sur la durée",
+    "description": "La transition écologique n'est pas un projet ponctuel, c'est une transformation profonde. SAEN26 vous accompagne à chaque étape, de la mesure initiale jusqu'au suivi pluriannuel de vos objectifs.",
+    "learnMore": "En savoir plus",
+    "badgeTitle": "Suivi continu",
+    "badgeSub": "Indicateurs mis à jour chaque trimestre",
+    "bullets": [
+      "Suivi trimestriel de vos indicateurs carbone",
+      "Mise à jour annuelle de votre bilan GES",
+      "Veille réglementaire et adaptation continue",
+      "Interface directe avec vos auditeurs et commissaires aux comptes"
+    ],
+    "cta": "Prendre rendez-vous"
+  },
+  "mission": {
+    "sectionLabel": "Qui sommes-nous",
+    "title": "Notre mission",
+    "description": "SAEN26 est un cabinet de conseil spécialisé dans la transition écologique des entreprises. Notre conviction : chaque organisation, quelle que soit sa taille, peut agir efficacement sur son empreinte environnementale. Nous mettons notre expertise au service de cette ambition, avec rigueur, transparence et engagement.",
+    "values": {
+      "rigueur": "Rigueur scientifique",
+      "transparence": "Transparence totale",
+      "impact": "Impact mesurable"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À propos de SAEN26",
+      "subtitle": "Un cabinet engagé pour une économie bas-carbone, au service des entreprises qui veulent agir concrètement."
+    },
+    "story": {
+      "title": "Notre histoire",
+      "body": "Fondé par des experts en environnement et en stratégie d'entreprise, SAEN26 est né de la conviction que la transition écologique doit être une opportunité de compétitivité, pas une contrainte subie. Depuis notre création, nous avons accompagné des dizaines d'entreprises dans leur transformation vers un modèle plus durable."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": [
+        {
+          "title": "Rigueur scientifique",
+          "description": "Nous fondons chaque recommandation sur des données vérifiables et des méthodologies reconnues."
+        },
+        {
+          "title": "Transparence totale",
+          "description": "Nos livrables sont clairs, documentés et compréhensibles par tous les niveaux de votre organisation."
+        },
+        {
+          "title": "Impact mesurable",
+          "description": "Nous définissons des indicateurs concrets pour que vous puissiez suivre et prouver vos progrès."
+        }
+      ]
+    },
+    "cta": {
+      "label": "Contactez-nous",
+      "description": "Discutons de votre projet de décarbonation."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contactez-nous",
+      "subtitle": "Vous avez un projet de décarbonation ? Une question sur nos services ? Nous vous répondons sous 48 h."
+    },
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse email",
+      "emailPlaceholder": "jean@entreprise.fr",
+      "company": "Entreprise",
+      "companyPlaceholder": "Votre entreprise (optionnel)",
+      "message": "Message",
+      "messagePlaceholder": "Décrivez votre projet ou votre question…",
+      "submit": "Envoyer le message",
+      "success": "Merci ! Votre message a bien été envoyé. Nous vous répondrons dans les 48 h.",
+      "error": "Une erreur est survenue. Veuillez réessayer ou nous contacter directement par email."
+    },
+    "info": {
+      "emailLabel": "Email",
+      "email": "contact@saen26.fr",
+      "locationLabel": "Localisation",
+      "location": "France",
+      "responseLabel": "Délai de réponse",
+      "response": "Sous 48 heures ouvrées"
+    }
+  },
+  "footer": {
+    "tagline": "Cabinet de conseil en transition écologique et stratégie bas-carbone.",
+    "navigation": "Navigation",
+    "legal": "Mentions légales",
+    "rights": "© 2026 SAEN26. Tous droits réservés."
+  }
+}
